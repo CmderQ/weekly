@@ -14,9 +14,11 @@
 
 ## 如何搜索
 
-搜索周刊的简单方法是使用 GitHub 的搜索框。
+1、使用 [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) 进行搜索。（推荐方法）
 
-如果需要精确搜索，请将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
+2、使用 GitHub 自带的搜索，但只支持搜索英文单词。
+
+3、将这个仓库克隆到本地，然后在仓库目录使用下面的命令。
 
 ```bash
 $ grep -nri [搜索词] docs | cat --number
@@ -30,7 +32,9 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
-**二月**：[第 96 期](docs/issue-96.md):high_brightness: | [第 95 期](docs/issue-95.md) | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
+**三月**：[第 97 期](docs/issue-97.md):high_brightness:
+
+**二月**：[第 96 期](docs/issue-96.md) | [第 95 期](docs/issue-95.md) | [第 94 期](docs/issue-94.md) | [第 93 期](docs/issue-93.md)
 
 **一月**：[第 92 期](docs/issue-92.md) | [第 91 期](docs/issue-91.md) | [第 90 期](docs/issue-90.md) | [第 89 期](docs/issue-89.md)
 
