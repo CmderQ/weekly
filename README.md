@@ -34,6 +34,8 @@ $ grep -nri css docs | cat --number
 
 **九月**
 
+- 第 127 期：[未来人人开发软件，几乎没人编码](docs/issue-127.md)
+- 第 126 期：[内卷化是什么？](docs/issue-126.md)
 - 第 125 期：[数字人民币要取代谁](docs/issue-125.md)
 - 第 124 期：[华为如何考核员工](docs/issue-124.md)
 - 第 123 期：[互联网公司与湘军的军制](docs/issue-123.md)
@@ -118,11 +120,11 @@ $ grep -nri css docs | cat --number
 - [第 79 期](docs/issue-79.md)
 - [第 78 期](docs/issue-78.md)
 - [第 77 期](docs/issue-77.md)
-- [第 76 期](docs/issue-76.md)
+- 第 76 期：[任何爱好都能变成职业，只要你会拍视频](docs/issue-76.md)
 
 **九月**
 
-- [第 75 期](docs/issue-75.md)
+- 第 75 期：[电子取代机械，对就业有何影响？](docs/issue-75.md)
 - 第 74 期：[信息的商业模式为什么不是收费](docs/issue-74.md)
 - 第 73 期：[数据统计的威力](docs/issue-73.md)
 - 第 72 期：[当代人不再有手稿](docs/issue-72.md)
@@ -211,8 +213,8 @@ $ grep -nri css docs | cat --number
 
 **九月**
 
-- [第 24 期](docs/issue-24.md)
-- [第 23 期](docs/issue-23.md)
+- 第 24 期：[新人进入软件行业的建议](docs/issue-24.md)
+- 第 23 期：[统计学上的人生最大决定因素](docs/issue-23.md)
 - 第 22 期：[猴子自拍，版权归谁](docs/issue-22.md)
 - 第 21 期：[人生的水平运动和垂直运动](docs/issue-21.md)
 
