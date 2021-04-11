@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1629)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1709)，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -25,6 +25,18 @@ $ grep -nri css docs | cat --number
 ```
 
 ## 2021
+
+**四月**
+
+- 第 153 期：[机器翻译是对译者的侮辱吗？](docs/issue-153.md)
+- 第 152 期：[从北大到技校](docs/issue-152.md)
+
+**三月**
+
+- 第 151 期：[NFT 是什么，听说能赚钱](docs/issue-151.md)
+- 第 150 期：[当音乐还是稀缺的时候](docs/issue-150.md)
+- 第 149 期：[新能源汽车，谁会是赢家？](docs/issue-149.md)
+- 第 148 期：[微增长时代](docs/issue-148.md)
 
 **二月**
 
@@ -105,15 +117,15 @@ $ grep -nri css docs | cat --number
 - [第 105 期](docs/issue-105.md)
 - [第 104 期](docs/issue-104.md)
 - [第 103 期](docs/issue-103.md)
-- [第 102 期](docs/issue-102.md)
-- [第 101 期](docs/issue-101.md)
+- 第 102 期：[工作热情从何而来？](docs/issue-102.md)
+- 第 101 期：[互联网不再稀缺](docs/issue-101.md)
 
 **三月**
 
-- [第 100 期](docs/issue-100.md)
-- [第 99 期](docs/issue-99.md)
-- [第 98 期](docs/issue-98.md)
-- [第 97 期](docs/issue-97.md)
+- 第 100 期：[零利率时代](docs/issue-100.md)
+- 第 99 期：[疫情导致的研究生扩招](docs/issue-99.md)
+- 第 98 期：[怎样清晰地表达自己的观点？](docs/issue-98.md)
+- 第 97 期：[那些为了考试拼搏的年轻人](docs/issue-97.md)
 
 **二月**
 
@@ -195,15 +207,15 @@ $ grep -nri css docs | cat --number
 - [第 53 期](docs/issue-53.md)
 - [第 52 期](docs/issue-52.md)
 - [第 51 期](docs/issue-51.md)
-- [第 50 期](docs/issue-50.md)
+- 第 50 期：["时间换收入"是一个陷阱](docs/issue-50.md)
 
 **三月**
 
-- [第 49 期](docs/issue-49.md)
-- [第 48 期](docs/issue-48.md)
-- [第 47 期](docs/issue-47.md)
-- [第 46 期](docs/issue-46.md)
-- [第 45 期](docs/issue-45.md)
+- 第 49 期：[学会有所不为](docs/issue-49.md)
+- 第 48 期：[著名程序员 Bill Joy 的人生启示](docs/issue-48.md)
+- 第 47 期：[吃播算不算正式工作？](docs/issue-47.md)
+- 第 46 期：[推荐算法的副作用](docs/issue-46.md)
+- 第 45 期：[阿西莫夫回忆录《人生舞台》](docs/issue-45.md)
 
 **二月**
 
